@@ -89,3 +89,7 @@ Screenshots
 License
 
 This lander is open source and released under MIT License.
+
+Author 
+
+Abhinav Dixit
